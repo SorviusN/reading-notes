@@ -1,10 +1,11 @@
 # Read 01 Notes
 
-## Topics:
+## Topics for HTML/CSS Book:
 * Structure, 
 * Extra Markup, 
 * HTML5 Layout 
 * Process Design. 
+
 
 ### From the HTML book: Main Points.
   - HTML, CSS, Practical, Browsers, Web Servers, Screen Readers are topics in the book.
@@ -31,4 +32,15 @@
   - Important features for companies could be: 
    * How large is the company or relevant department?
    * Will visitors be using the site for themselves or others?
+
+## Topics for JS Book:
+* The ABC of programming
+
+### Chapter 1 highlights:
+  - "A script is a series of instructs in a recipe" // Pg. 14 Javascript & Jquery, Jon Duckett
+  - Focus on breaking down things into smaller tasks. This makes up the bulk of what scripting is.
+  - It is very important to write out your script in PLAIN ENGLISH before translating to code. Can greatly speed up your process.
+  - Objects can have their own Properties, Events and methods.
+  - Browsers are simply a set of objects with their own styling properties and ways to manipulate the object.
+
 
