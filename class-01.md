@@ -37,7 +37,7 @@
 * The ABC of programming
 
 ### Chapter 1 highlights:
-  - "A script is a series of instructs in a recipe" // Pg. 14 Javascript & Jquery, Jon Duckett
+  - "A script is a series of instructions in a recipe" // Pg. 14 Javascript & Jquery, Jon Duckett
   - Focus on breaking down things into smaller tasks. This makes up the bulk of what scripting is.
   - It is very important to write out your script in PLAIN ENGLISH before translating to code. Can greatly speed up your process.
   - Objects can have their own Properties, Events and methods.
