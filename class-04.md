@@ -1,5 +1,5 @@
 
-#Topics for HTML/CSS Book:
+# Topics for HTML/CSS Book:
   - Links (74 - 93).
     - Directory Structure
     - Relative URLs
@@ -28,9 +28,7 @@
 
 ### Relative URLs
 - ALL BELOW SHOULD BE RELATIVE TO HTML
-- Same Folder ``` Javascript  
-<a>same.html</a>
-``
+- Same Folder 
 - Child Folder
 - Grandchild Folder
 - Parent Folder
@@ -43,9 +41,10 @@
 - To open links in new window, use "target=blank"
 
 ## Layouts
-- Building Blocks, block level element starts on a new line. such as <h1></h1>, <p></p>, <ul></ul>.
-- Inline elements flow in between surrounding text, such as <img>, <b></b>, <i></i>.
+- Building Blocks, block level element starts on a new line. such as h1, p, and footer
+- Inline elements flow in between surrounding text, such as img, b, and i.
 - If one block level element sits inside another, the out box is the parent:
+
 ``` Javascript
 <header class="Parent">
   <h1 class="Child"></h1>
@@ -60,7 +59,7 @@
 - Float Elements: Allows element to be out of flow and position to far left/right  of containing box. 
 IMPORTANT: Floated element becomes a box-level element which other content can flow.
 
-#Topics for JS/JQuery:
+# Topics for JS/JQuery:
  - Functions, Methods and Objects (86-99) 
   -Functions
   -Objects
