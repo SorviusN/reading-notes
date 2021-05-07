@@ -61,8 +61,8 @@ IMPORTANT: Floated element becomes a box-level element which other content can f
 
 # Topics for JS/JQuery:
  - Functions, Methods and Objects (86-99) 
-  -Functions
-  -Objects
+  - Functions
+  - Objects
 
 ## Functions
 - Lets you group a series of statements together to perform a specific task. Can call arguments as well.
