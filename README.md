@@ -102,7 +102,34 @@ bake for 40 mins at 350
 ## git branches
 
 ### 
-#6
+# Lecture Notes 6
+
+## const
+
+### what?
+
+- a way to declare variables whose vlaue will never change
+- a constant valued varible
+
+### why?
+- it never can be changed, prevents code errors and tells better story.
+``` js
+const newVariable = 'unchanging';
+```
+
+## template literals
+
+- a new way to write string without concatonation
+- wrap string in backticks.
+
+``` js
+let thing = `This is a string with the variable ${newVar} inside of it.`
+```
+
+## Custom google fonts
+
+
+
 #7
 #8
 #9
