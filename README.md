@@ -130,7 +130,14 @@ let thing = `This is a string with the variable ${newVar} inside of it.`
 
 
 
-#7
+# Lecture Notes
+
+- css grid
+- new lab bus mall demo
+
+## CSS Grid
+
+
 #8
 #9
 #10
