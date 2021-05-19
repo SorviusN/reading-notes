@@ -138,7 +138,22 @@ let thing = `This is a string with the variable ${newVar} inside of it.`
 ## CSS Grid
 
 
-#8
+# Lecture Notes 8
+
+## code libraries
+- code someone else has written that linked into yours so you can access.
+
+## Chart.js
+- https://www.chartjs.org
+
+### What?
+- Simple yet flexible js charting for designers and devs
+- a third aprty library that we can add to code to make charts. 
+
+### why?
+- saves time and effort.
+- don't need to build it from scratch.
+
 #9
 #10
 #11
