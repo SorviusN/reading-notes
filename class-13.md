@@ -7,7 +7,7 @@
 - Beyond named key-value pairs: competing visions
 
 ### Diving in
-- native client apps have held advantages over web apps for local storage.
+- Native client apps have held advantages over web apps for local storage.
 - If you need local storage beyond just key-value pairs in native, just embed a database.
 - Cookies:
   - Web apps use them to hold local storage
